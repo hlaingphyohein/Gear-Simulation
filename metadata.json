@@ -1,0 +1,5 @@
+{
+  "name": "Copy of GearOpti-Sim Web",
+  "description": "A comprehensive web-based parametric gear train design and simulation platform. Features inverse design logic, real-time input power variation simulation, 2D kinematic visualization, and DXF CAD export. Includes an AI Engineering Advisor powered by Gemini.",
+  "requestFramePermissions": []
+}
